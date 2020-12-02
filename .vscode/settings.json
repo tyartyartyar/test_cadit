@@ -1,0 +1,8 @@
+// {
+//   "runOnSave.commands": [
+//     {
+//       "command": "go run .",
+//       "runIn": "terminal"
+//     }
+//   ]
+// }
